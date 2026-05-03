@@ -1,0 +1,93 @@
+<html>
+<head>
+<title>My Resume</title>
+</head>
+<body>
+<h1 align="center">My Resume</h1>
+<header>
+<h1>Tanay Ravindra Chavhan</h1>
+<h3>Web Developer</h3>
+</header>
+<hr>
+<section>
+ <img src="C:\Users\VICTUS\Pictures\Camera Roll\Profile Photo.jpeg" width="336" height="558" align="right">
+    </section>
+    <hr>
+ <section>
+ <h2>About Me</h2>
+        <p>
+            I am a passionate web developer with knowledge of HTML5, CSS, and JavaScript.
+            I enjoy building responsive and user-friendly websites.
+        </p>
+    </section>
+
+    <hr>
+
+
+    <section>
+        <h2>Education</h2>
+        <table border="1" cellpadding="5">
+
+            <!-- Using colspan -->
+            <tr>
+                <th colspan="4">Educational Qualifications</th>
+            </tr>
+
+            <tr>
+                <th>Qualification</th>
+                <th>Institute</th>
+                <th>Year</th>
+                <th>Percentage</th>
+            </tr>
+
+            <tr>
+                <td rowspan="2">Higher Education</td>
+                <td rowspan="2">ST. Vincent Pallotti School</td>
+                <td>11th - 2023</td>
+                <td>61%</td>
+            </tr>
+
+            <tr>
+                <td>12th - 2024</td>
+                <td>65%</td>
+            </tr>
+
+            <tr>
+                <td>SSC</td>
+                <td>ST. Vincent Pallotti School</td>
+                <td>2022</td>
+                <td>74%</td>
+            </tr>
+
+        </table>
+    </section>
+
+    <hr>
+
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>C++</li>
+        </ul>
+    </section>
+
+    <hr>
+
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:chavhantanay@gmail.com">chavhantanay@gmail.com</a></p>
+     
+        <p>GitHub: <a href="https://github.com" target="_blank">tanayccse25-code</a></p>
+    </section>
+    <hr>
+    <footer>
+        <p>© 2026 Tanay Ravindra Chavhan. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
