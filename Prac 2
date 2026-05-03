@@ -1,0 +1,31 @@
+<html>
+<title>Practical-3</title>
+<body bgcolor="Sky Blue">
+<h1>TanayChavhan</h1>
+<h3>CS25120</h3>
+<ol>
+<li>ABC</li>
+<li>POR</li>
+<li>xyz</li>
+</ol>
+<ul>
+<li>Apple,Moon</li>
+<li>Snail,Mendak</li>
+<li>Xray,Yray</li>
+</ul>
+<dd>
+<dt>User interface</dt>
+<dd>Home</dd>
+<dd>Information</dd>
+<dd>Contact</dd>
+</dt>
+<h1 align="center">
+<a href="home.htnl"><h4>HOME</h4></a>
+<a href="info.html"><h4>INFO</h4></a>
+<a href="call.html"><h4>CALL</h4></a>
+<img src="C:\Users\VICTUS\Desktop\WebDesign.jpeg">
+</hr>
+<marquee>Right to left
+<marquee direction : "left">
+<marquee scrolldelay : 300ms">
+</html>
