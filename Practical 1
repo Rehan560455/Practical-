@@ -1,0 +1,20 @@
+<html>
+<title>Practical 1</title>
+<head>
+</head>
+<body bgcolor ="aqua">
+<header>
+<h1> Welcome to my site </h1>
+</header>
+<p>Here we are learning new element</p>
+<p><b> b is used to bold</b></p>
+<p><i> i is used to italic</i>
+<p><u>u is used to underline</u></p>
+<h1 align="center">I am Tanay Chavhan</h1>
+<p>My USN is CS25120.<br> 
+I am in section B, 1st year,S.B. Jain College </p>
+<footer>
+<p> Thank you for visiting </p>
+</footer>
+</body>
+</html>
