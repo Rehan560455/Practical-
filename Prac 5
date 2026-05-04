@@ -5,7 +5,7 @@
 <body>
 <h1 align="center">My Resume</h1>
 <header>
-<h1>Tanay Ravindra Chavhan</h1>
+<h1>Rehan kanoje</h1>
 <h3>Web Developer</h3>
 </header>
 <hr>
@@ -80,13 +80,13 @@
 
     <section>
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:chavhantanay@gmail.com">chavhantanay@gmail.com</a></p>
+        <p>Email: <a href="mailto:kanojerehan@gmail.com">chavhantanay@gmail.com</a></p>
      
         <p>GitHub: <a href="https://github.com" target="_blank">tanayccse25-code</a></p>
     </section>
     <hr>
     <footer>
-        <p>© 2026 Tanay Ravindra Chavhan. All rights reserved.</p>
+        <p>© 2026 Rehan kanoje. All rights reserved.</p>
     </footer>
 
 </body>
