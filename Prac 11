@@ -5,16 +5,16 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>✨ How's the vibe?</h1>
+    <h1> How's the vibe?</h1>
     <div class="controls">
         <button onclick="getLocation()">Tag My Location</button>
         <button class="reset" onclick="resetTracker()">Reset All</button>
     </div>
     <p id="city">Location not set</p>
     <div id="options">
-        <div class="vibe" draggable="true" id="v1">🚀 High Energy</div>
-        <div class="vibe" draggable="true" id="v2">😴 Sleepy</div>
-        <div class="vibe" draggable="true" id="v3">🧘 Calm</div>
+        <div class="vibe" draggable="true" id="v1"> High Energy</div>
+        <div class="vibe" draggable="true" id="v2"> Sleepy</div>
+        <div class="vibe" draggable="true" id="v3"> Calm</div>
     </div>
     <h3>Current Mood:</h3>
     <div id="dropZone" class="box">Drop vibe here</div>
